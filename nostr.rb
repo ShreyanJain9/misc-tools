@@ -25,4 +25,3 @@ puts '  y: %#x' % public_key.y
 # log into nostr with keypair
 
 n = Nostr.new(private_key)
-n.keys
