@@ -4,3 +4,4 @@ gem "sinatra"
 gem "nostr_ruby"
 
 gem "cowsay", "~> 0.3.0"
+gem "dotenv"
