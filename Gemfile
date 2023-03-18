@@ -5,3 +5,5 @@ gem "nostr_ruby"
 
 gem "cowsay", "~> 0.3.0"
 gem "dotenv"
+gem "ruby-openai"
+gem "discordrb"
